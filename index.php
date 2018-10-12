@@ -1,4 +1,2 @@
 <?php
-class cnm{
-
-}
+$i=1;
