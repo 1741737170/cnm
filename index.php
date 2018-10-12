@@ -1,4 +1,4 @@
 <?php
-class b{
+class cnm{
 
 }
