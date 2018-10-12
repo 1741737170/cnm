@@ -1,4 +1,4 @@
 <?php
-class a{
+class asdasd{
 
 }
