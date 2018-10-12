@@ -1,4 +1,6 @@
 <?php
-class asdasd{
 
-}
+$i=1;
+$k = 1;
+
+
