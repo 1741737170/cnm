@@ -1,2 +1,4 @@
 <?php
-phpinfo();asdjasoasndaklsd
+class a{
+
+}
